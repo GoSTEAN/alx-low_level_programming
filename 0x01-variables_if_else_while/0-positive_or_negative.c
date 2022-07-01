@@ -4,13 +4,14 @@
 
 int main(void) 
 {
+	
 	int n;
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;	
 
 	if (n > 0)
 	{
-		print("%d is postive\n", n);
+		printf("%d is postive\n", n);
 	}
 	else if (n == 0)
 	{
