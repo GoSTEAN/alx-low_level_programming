@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * add - adds two integers and returns the result
  * @a: an integer to add to b
@@ -6,7 +6,7 @@
  * Return: Void.
  */
 
-int add(int a,int b)
+int add(int a, int b)
 {
-	return (a +b);
+	return (a + b);
 }
