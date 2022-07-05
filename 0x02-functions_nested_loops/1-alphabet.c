@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet
- */`:wq
+ */
 
 void print_alphabet(void)
 {
