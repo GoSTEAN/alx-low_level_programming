@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_remaing_days - taskes a date and prints how many days are
